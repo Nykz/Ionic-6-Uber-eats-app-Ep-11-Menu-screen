@@ -1,0 +1,7 @@
+{
+  "name": "Uber Eats",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
